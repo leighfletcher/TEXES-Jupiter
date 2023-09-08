@@ -1,6 +1,6 @@
 # TEXES-Jupiter
 
-Global maps of Jupiter’s atmospheric temperatures, gaseous composition, and aerosol opacity can be derived from a programme of 5–20 μm mid-infrared spectroscopic observations using the Texas Echelon Cross Echelle Spectrograph (TEXES) on NASA’s Infrared Telescope Facility (IRTF).
+Global maps of Jupiter’s atmospheric temperatures, gaseous composition, and aerosol opacity can be derived from a programme of 5–20 μm mid-infrared spectroscopic observations using the Texas Echelon Cross Echelle Spectrograph (TEXES, [Lacy et al., 2002](https://iopscience.iop.org/article/10.1086/338730)) on NASA’s Infrared Telescope Facility (IRTF).
 
 For more than a decade, TEXES low-to-medium-resolution observations have been used to monitor the thermal structure of Jupiter, using 8-10 narrow wavenumber settings sensitive to different spectral features.  By simultaneously inverting these spectra, we can provide a 3D view of Jupiter's atmosphere from the upper troposphere (~0.6 bars) to the mid-stratosphere (~1 mbar).  Full details of the inversion approach are provided by [Fletcher et al. (2016)](http://dx.doi.org/10.1016/j.icarus.2016.06.008), which used data from December 2014.  
 
@@ -43,7 +43,7 @@ The following table contains a list of spectral settings regularly used by the m
 | 960 cm-1    | Ammonia    | 2,664 |
 | 1165 cm-1    | Phosphine and clouds    | 2,157 |
 | 1247 cm-1    | Stratospheric Methane    | 12,358 |
-| 1935 cm-1    | Tropospheric Clouds    |- |
+| 1935 cm-1    | Tropospheric Clouds & Ammonia    |- |
 | 2125 cm-1    | Tropospheric Clouds    |- |
 | 2140 cm-1    | Tropospheric Clouds & Arsine    | 12,366 |
 
@@ -60,7 +60,7 @@ The following table contains a list of spectral settings regularly used by the m
 |2014-DEC-6-9 | | Excellent coverage | Fletcher et al., 2016; Melin et al., 2019 | 
 |2015-MAR-24/APR-06 | | | Melin et al., 2019 |
 |2015-NOV-16-18 | | | Melin et al., 2019 |
-|2016-JAN-13-20 | |  | Fletcher et al., 2017 |
+|2016-JAN-13-20 | |  | Fletcher et al., 2017; Blain et al., 2018 |
 |2016-MAY-2-3 | | | Fletcher et al., 2017; Melin et al., 2019 |
 |2016-DEC-15-23 | | | Melin et al., 2019 |
 |2017-JAN-15-16 | | | Melin et al., 2019 |
