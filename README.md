@@ -74,7 +74,7 @@ The following table contains a list of spectral settings regularly used by the m
 |2019-APR-13-24 | | | Unpublished |
 |2019-AUG-13-17 | | | Unpublished |
 |2019-SEP-13-20 | | Gemini-North | Unpublished |
-|2021-JUN-26-27 | | | Unpublished |
+|2021-JUN-26-27 | | First post-COVID observations | Unpublished |
 |2021-OCT-2-4 | | | Unpublished |
 |2021-NOV-10-11 | | | Unpublished |
 |2022-JUN-27-30 | | | Unpublished |
