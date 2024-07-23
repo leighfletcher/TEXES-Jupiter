@@ -80,5 +80,7 @@ The following table contains a list of spectral settings regularly used by the m
 |2022-JUN-27-30 | | | Unpublished |
 |2022-SEP-15-16 | `2022sep` | Excellent conditions, between Juno PJ44 and PJ45 | Unpublished |
 |2023-JUL-15-25 |  |  | Unpublished |
+|2023-DEC-?? | | Excellent quality except for 2023-12-09. | Unpublished |
+|2024-FEB-23-25 | | Mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
 
 Raw and pipeline-reduced data have been recently delivered and archived at the NASA/IPAC Infrared Science Archive within the IRTF archive hosted here: https://irsa.ipac.caltech.edu/frontpage/
