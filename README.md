@@ -55,13 +55,13 @@ The following table contains a list of spectral settings regularly used by the m
 | -------- | ------- | -------|-------|
 |2012-JAN-11-19 |  | Poor weather | Unpublished |
 |2012-SEP-28/OCT-05 | |   | Melin et al., 2019 |
-|2013-FEB-4-12 | | | Fletcher et al., 2014; Melin et al., 2019 |
+|2013-FEB-04-12 | | | Fletcher et al., 2014; Melin et al., 2019 |
 |2014-FEB-15-25 | |  Poor weather | Melin et al., 2019 |
-|2014-DEC-6-9 | | Excellent coverage | Fletcher et al., 2016; Melin et al., 2019 | 
+|2014-DEC-06-09 | | Excellent coverage | Fletcher et al., 2016; Melin et al., 2019 | 
 |2015-MAR-24/APR-06 | | | Melin et al., 2019 |
 |2015-NOV-16-18 | | | Melin et al., 2019 |
 |2016-JAN-13-20 | |  | Fletcher et al., 2017; Blain et al., 2018 |
-|2016-MAY-2-3 | | | Fletcher et al., 2017; Melin et al., 2019 |
+|2016-MAY-02-03 | | | Fletcher et al., 2017; Melin et al., 2019 |
 |2016-DEC-15-23 | | | Melin et al., 2019 |
 |2017-JAN-15-16 | | | Melin et al., 2019 |
 |2017-MAR-12-14 | | Gemini-North | Fletcher et al., 2020; between Juno PJ4 and PJ5 |
@@ -75,12 +75,12 @@ The following table contains a list of spectral settings regularly used by the m
 |2019-AUG-13-17 | | | Unpublished |
 |2019-SEP-13-20 | | Gemini-North | Unpublished |
 |2021-JUN-26-27 | | First post-COVID observations | Unpublished |
-|2021-OCT-2-4 | | | Unpublished |
+|2021-OCT-02-04 | | | Unpublished |
 |2021-NOV-10-11 | | | Unpublished |
 |2022-JUN-27-30 | | | Unpublished |
 |2022-SEP-15-16 | `2022sep` | Excellent conditions, between Juno PJ44 and PJ45 | Unpublished |
 |2023-JUL-15-25 |  |  | Unpublished |
-|2023-DEC-?? | | Excellent quality except for 2023-12-09. | Unpublished |
+|2023-DEC-07-12 | | Excellent quality except for 2023-12-09. | Unpublished |
 |2024-FEB-23-25 | | Mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
 
 Raw and pipeline-reduced data have been recently delivered and archived at the NASA/IPAC Infrared Science Archive within the IRTF archive hosted here: https://irsa.ipac.caltech.edu/frontpage/
