@@ -83,5 +83,6 @@ The following table contains a list of spectral settings regularly used by the m
 |2023-OCT-01-08 | | Humidity and cirrus; best data 07/08. | Unpublished |
 |2023-DEC-07-12 | | Excellent quality except for 2023-12-09. | Unpublished |
 |2024-FEB-23-25 | | Mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
+|2024-JUL-29-30 | | Some cirrus on night 1; 75% of night 2 excellent (PI: Harkett) | Unpublished. |
 
 Raw and pipeline-reduced data have been recently delivered and archived at the NASA/IPAC Infrared Science Archive within the IRTF archive hosted here: https://irsa.ipac.caltech.edu/frontpage/
