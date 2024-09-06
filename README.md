@@ -79,10 +79,10 @@ The following table contains a list of spectral settings regularly used by the m
 |2021-NOV-10-11 | | | Unpublished |
 |2022-JUN-27-30 | | | Unpublished |
 |2022-SEP-15-16 | `2022sep` | Between Juno PJ44-45; excellent conditions.  | Unpublished |
-|2023-JUL-15-25 | | Between PJ52 and PJ53. | Unpublished |
-|2023-OCT-01-08 | | Between PJ54-55; humidity and cirrus; best data 07/08. | Unpublished |
-|2023-DEC-07-12 | | Between PJ56-57; excellent quality except for 2023-12-09. | Unpublished |
-|2024-FEB-23-25 | | Between PJ58-59; mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
-|2024-JUL-29-30 | | 14d after PJ63; some cirrus on night 1; 75% of night 2 excellent (PI: Harkett) | Unpublished. |
+|2023-JUL-15-25 | `2023jul` | Between PJ52 and PJ53. | Unpublished |
+|2023-OCT-01-08 | `2023oct` | Between PJ54-55; humidity and cirrus; best data 07/08. | Unpublished |
+|2023-DEC-07-12 | `2023dec` | Between PJ56-57; excellent quality except for 2023-12-09. | Unpublished |
+|2024-FEB-23-25 | `2024feb` | Between PJ58-59; mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
+|2024-JUL-29-30 | `2024jul` | 14d after PJ63; some cirrus on night 1; 75% of night 2 excellent (PI: Harkett) | Unpublished. |
 
 Raw and pipeline-reduced data have been recently delivered and archived at the NASA/IPAC Infrared Science Archive within the IRTF archive hosted here: https://irsa.ipac.caltech.edu/frontpage/
