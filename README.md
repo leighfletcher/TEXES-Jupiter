@@ -77,7 +77,7 @@ The following table contains a list of spectral settings regularly used by the m
 |2021-JUN-26-27 | | First post-COVID observations | Unpublished |
 |2021-OCT-02-04 | | | Unpublished |
 |2021-NOV-10-11 | | | Unpublished |
-|2022-JUN-27-30 | | | Unpublished |
+|2022-JUN-27-30 | `2022jun` | Between PJ42-43; good conditions | Unpublished |
 |2022-SEP-15-16 | `2022sep` | Between Juno PJ44-45; excellent conditions.  | Unpublished |
 |2023-JUL-15-25 | `2023jul` | Between PJ52 and PJ53. | Unpublished |
 |2023-OCT-01-08 | `2023oct` | Between PJ54-55; humidity and cirrus; best data 07/08. | Unpublished |
