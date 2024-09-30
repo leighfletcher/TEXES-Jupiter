@@ -2,7 +2,7 @@
 
 Global maps of Jupiter’s atmospheric temperatures, gaseous composition, and aerosol opacity can be derived from a programme of 5–20 μm mid-infrared spectroscopic observations using the Texas Echelon Cross Echelle Spectrograph (TEXES, [Lacy et al., 2002](https://iopscience.iop.org/article/10.1086/338730)) on NASA’s Infrared Telescope Facility (IRTF).
 
-![image](https://github.com/user-attachments/assets/3cc5ec73-ce2c-4381-a665-32b7f348179f)
+[![DOI](https://zenodo.org/badge/688085328.svg)](https://doi.org/10.5281/zenodo.13860951)
 
 For more than a decade, TEXES low-to-medium-resolution observations have been used to monitor the thermal structure of Jupiter, using 8-10 narrow wavenumber settings sensitive to different spectral features.  By simultaneously inverting these spectra, we can provide a 3D view of Jupiter's atmosphere from the upper troposphere (~0.6 bars) to the mid-stratosphere (~1 mbar).  Full details of the inversion approach are provided by [Fletcher et al. (2016)](http://dx.doi.org/10.1016/j.icarus.2016.06.008), which used data from December 2014.  
 
