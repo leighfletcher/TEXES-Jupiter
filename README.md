@@ -12,6 +12,7 @@ This website serves as a repository for TEXES products from each observing run, 
 * `DATE_WAVENUMBER_rawspec.png` - Summed spectrum for each TEXES scan (black) compared to the telluric transmission (red).  Blue dashed lines show the usual limits considered for spectral inversion, and the file number is given in the top right.
 * `DATE_WAVENUMBER_scalezonal.png` - Central-meridian scan for each individual cube (i.e., the different longitudes registered in the key) compared to zonal-mean brightness (averaged over the TEXES passband) from Cassini/CIRS medium-resolution data (black dashed) and high-resolution data (red dashed) from 2000.  The different longitude scans are forced to have the same brightness at low latitudes to prevent steps in the maps, and radiometric calibration offsets are approximately corrected.
 * `DATE_WAVENUMBER_fullmap.png` - The final combined map for the setting, with crude corrections for limb darkening/brightening.
+* `DATE_WAVENUMBER_TBmap.png` - Where available, the calibrated brightness temperatures are displayed here, with an accompanying `.fits` file.
 * `DATE_WAVENUMBER_allmaps.png` - One example of a single map, used for checking data quality.
 * `DATE_WAVENUMBER_zonalmean.png` - Spectral radiance as a function of wavenumber and y-axis, producing the spectral inputs for inversion.
 * `DATE_WAVENUMBER_skytrans.png` - Terrestrial transmission deduced from the sky frames, which is used to scale the uncertainty on the spectral data (i.e., forcing NEMESIS to ignore regions of low transmission.
@@ -86,5 +87,5 @@ The following table contains a list of spectral settings regularly used by the m
 |2023-DEC-07-12 | `2023dec` | Between PJ56-57; excellent quality except for 2023-12-09. | Unpublished |
 |2024-FEB-23-25 | `2024feb` | Between PJ58-59; mediocre conditions (clouds) over 3 nights (PI: Harkett) | Unpublished. |
 |2024-JUL-29-30 | `2024jul` | 14d after PJ63; some cirrus on night 1; 75% of night 2 excellent (PI: Harkett) | Unpublished. |
-
+|2025-FEB-28/MAR-01 | `2025feb` | Coinciding with PJ69; some pointing shake during afternoon observations (PI: Antunano) | Unpublished. |
 Raw and pipeline-reduced data have been recently delivered and archived at the NASA/IPAC Infrared Science Archive within the IRTF archive hosted here: https://irsa.ipac.caltech.edu/frontpage/
